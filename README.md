@@ -36,7 +36,7 @@ Ferramenta utilizada: Power BI
 📥 Caso tenha interesse em ver o arquivo completo e interagir com o mesmo, é só clicar abaixo.<br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTU3ZmU1MTktYjlkZS00Mjk4LWEwMjEtMjY5Mzg1NGE0MjQ4IiwidCI6ImViNmMzNzVlLTA5MDItNGFkMC1iZTJmLTdjZmUxMTJjZTVkNSJ9">Clique aqui</a> e acesse a solução desenvolvida para o cliente.
 <br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/AndersonOS/ContosoPortifolio/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <!--
 **AndersonOS/AndersonOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
