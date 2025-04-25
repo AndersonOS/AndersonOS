@@ -17,7 +17,7 @@ Principais Ferramentas:
 
 Onde me encontrar:
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/aosilva/"><img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/AndersonOS/Portfolio/blob/main/social%20icons/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/aosilva/"><img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/AndersonOS/Portfolio/blob/main/social%20icons/linkedin.png?raw=true"></a>  
 </div>
 
 ## Portfólio e Principais Projetos
